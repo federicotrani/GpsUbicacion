@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GpsUbicacion</string>
+    <string name="resume">RESUMEN LOCATION UPDATES</string>
+    <string name="pause">PAUSA</string>
+</resources>
